@@ -42,7 +42,3 @@ I'am Aynur, from Turkey.  I do projeckts on Machine Learning, Deep Learning, Com
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aynurcelebi&layout=compact&theme=tokyonight" height="180">
   
 </p>
-
-[0]: https://www.mobiler.dev/
-[1]: https://www.futag.net/
-
