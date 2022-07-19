@@ -36,5 +36,13 @@ I'am Aynur, from Turkey.  I do projeckts on Machine Learning, Deep Learning, Com
 
 
 - [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aynurcelebi&theme=dracula)](https://github.com/aynurcelebi/github-readme-activity-graph)
+<h2 align="center">My GitHub Stats :bar_chart:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aynurcelebi&show_icons=true&theme=tokyonight" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aynurcelebi&layout=compact&theme=tokyonight" height="180">
+  
+</p>
 
-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[0]: https://www.mobiler.dev/
+[1]: https://www.futag.net/
+
