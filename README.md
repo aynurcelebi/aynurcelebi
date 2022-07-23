@@ -23,6 +23,7 @@ I'am Aynur, from Turkey.  I do projeckts on Machine Learning, Deep Learning, Com
  - 🤖 Machine Learning
  - ⛵ Deep Learning 
  - 👨‍💻 Computer Vision 
+ - ⚙  Back-end Developer
  - 👩‍💼 Entrepreneur
 - 🔭 I’m currently working on this page. 
 
