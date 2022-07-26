@@ -34,9 +34,9 @@ I'am Aynur, from Turkey.  I do projeckts on Machine Learning, Deep Learning, Com
 
 
 
+-[![Aynur Çelebi's github activity graph](https://activity-graph.herokuapp.com/graph?username=aynurcelebi&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/aynurcelebi/github-readme-activity-graph)
 
 
-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aynurcelebi&theme=dracula)](https://github.com/aynurcelebi/github-readme-activity-graph)
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aynurcelebi&show_icons=true&theme=tokyonight" width="450" height="180">
