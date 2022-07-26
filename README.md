@@ -28,7 +28,23 @@ I'am Aynur, from Turkey.  I do projeckts on Machine Learning, Deep Learning, Com
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/aynurcelebi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aynur-%C3%A7elebi-5b2b2a1a2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://instagram.com/aynur_celebi65?igshid=YmMyMTA2M2Y=)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCc7k32cjtrI9l90yoLwhcUA/videos)  
+## 📝 How to access 🔓 blog post ✍🏻
+
+[![Medium Badge](https://img.shields.io/badge/AynurÇelebi-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@aynurcelebi8947)
+
+
+## 📫 How 👀 to reach me 💁🏻‍♂️
+
+You can find and get touch with me on these accounts 🙈
+
+[![LinkedIn Badge](https://img.shields.io/badge/AynurÇELEBİ-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aynur-%C3%A7elebi-5b2b2a1a2/)
+
+[![Github Badge](https://img.shields.io/badge/AynurÇelebi-follow%20on%20github-blue?style=for-the-badge&logo=github)](https://stackoverflow.com/users/7799462/halil-ozel)
+
+[![Instagram Badge](https://img.shields.io/badge/aynurçelebi-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/aynur_celebi65?igshid=YmMyMTA2M2Y=)
+
+[![YouTube Badge](https://img.shields.io/badge/aynurçelebi-follow%20on%20youtube-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCc7k32cjtrI9l90yoLwhcUA/videos)
+
 
 ### 🔥My Stats
 
